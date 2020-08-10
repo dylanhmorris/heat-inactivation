@@ -1,0 +1,5 @@
+"","models","rhat_max_parm","rhat_max_val","neff_min_parm","neff_min_val","n_divergent"
+"1","out/mcmc_chains/dmem-hl_prior_check.Rds","sampled_titers_pred[38]",1.00225722854709,"lp__",0.470796769237398,0
+"2","out/mcmc_chains/dmem-titer_prior_check.Rds","sampled_titers_pred[46]",1.00132795020125,"lp__",0.341398391688709,0
+"3","out/mcmc_chains/dmem-hl_chains.Rds","log_half_life[4]",1.00326672299102,"sampled_titer[21]",0.372219167177269,0
+"4","out/mcmc_chains/dmem-titer_chains.Rds","log10_titer[26]",1.00339235410232,"lp__",0.394049471427503,0
