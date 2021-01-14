@@ -1,0 +1,197 @@
+study_id;study_doi;virus;medium_volume;material;medium_type;container_type;container_cover;incubator;temperature_C;humidity_%RH;virus_concentration_initial
+Batejat_2020;10.1101/2020.05.01.067769;SARS-CoV-2;500 microliters;Bulk medium;Bodily fluids;Unspecified;Unspecified;Dry bath;56;NA;6 log10TCID50/mL
+Batejat_2020;10.1101/2020.05.01.067769;SARS-CoV-2;500 microliters;Bulk medium;Cell culture medium;Unspecified;Unspecified;Dry bath;56;NA;6 log10TCID50/mL
+Batejat_2020;10.1101/2020.05.01.067769;SARS-CoV-2;500 microliters;Bulk medium;Bodily fluids;Unspecified;Unspecified;Dry bath;65;NA;6 log10TCID50/mL
+Batejat_2020;10.1101/2020.05.01.067769;SARS-CoV-2;500 microliters;Bulk medium;Cell culture medium;Unspecified;Unspecified;Dry bath;65;NA;6 log10TCID50/mL
+Batejat_2020;10.1101/2020.05.01.067769;SARS-CoV-2;500 microliters;Bulk medium;Bodily fluids;Unspecified;Unspecified;Dry bath;95;NA;6 log10TCID50/mL
+Biryukov_2020;10.1128/mSphere.00441-20;SARS-CoV-2;Mix 1, 5, 10 microliters;Mix plastic/steel surface;Bodily fluids;Unspecified;Unspecified;Incubator;24;20;Unspecified
+Biryukov_2020;10.1128/mSphere.00441-20;SARS-CoV-2;Mix 1, 5, 10 microliters;Mix plastic/steel surface;Bodily fluids;Unspecified;Unspecified;Incubator;24;40;Unspecified
+Biryukov_2020;10.1128/mSphere.00441-20;SARS-CoV-2;Mix 1, 5, 10 microliters;Mix plastic/steel surface;Bodily fluids;Unspecified;Unspecified;Incubator;24;60;Unspecified
+Biryukov_2020;10.1128/mSphere.00441-20;SARS-CoV-2;Mix 1, 5, 10 microliters;Mix plastic/steel surface;Bodily fluids;Unspecified;Unspecified;Incubator;28;40;Unspecified
+Biryukov_2020;10.1128/mSphere.00441-20;SARS-CoV-2;Mix 1, 5, 10 microliters;Mix plastic/steel surface;Bodily fluids;Unspecified;Unspecified;Incubator;35;20;Unspecified
+Biryukov_2020;10.1128/mSphere.00441-20;SARS-CoV-2;Mix 1, 5, 10 microliters;Mix plastic/steel surface;Bodily fluids;Unspecified;Unspecified;Incubator;35;40;Unspecified
+Biryukov_2020;10.1128/mSphere.00441-20;SARS-CoV-2;Mix 1, 5, 10 microliters;Mix plastic/steel surface;Bodily fluids;Unspecified;Unspecified;Incubator;35;60;Unspecified
+Bucknall_1972;10.3181/00379727-139-36224;HCoV-229E;Unspecified;Bulk medium;Cell culture medium;Unspecified;Unspecified;Unspecified;33;NA;Unspecified
+Bucknall_1972;10.3181/00379727-139-36224;HCoV-OC43;Unspecified;Bulk medium;Cell culture medium;Unspecified;Unspecified;Unspecified;33;NA;Unspecified
+Bucknall_1972;10.3181/00379727-139-36224;HCoV-229E;Unspecified;Bulk medium;Cell culture medium;Unspecified;Unspecified;Unspecified;37;NA;Unspecified
+Bucknall_1972;10.3181/00379727-139-36224;HCoV-OC43;Unspecified;Bulk medium;Cell culture medium;Unspecified;Unspecified;Unspecified;37;NA;Unspecified
+Casanova_2009;10.1016/j.watres.2009.02.002;MHV;45000 microliters;Bulk medium;Water;Unspecified;Unspecified;Refrigerator;4;NA;6.5 log10MPN/mL
+Casanova_2009;10.1016/j.watres.2009.02.002;TGEV;45000 microliters;Bulk medium;Water;Unspecified;Unspecified;Refrigerator;4;NA;4.5 log10MPN/mL
+Casanova_2009;10.1016/j.watres.2009.02.002;MHV;45000 microliters;Bulk medium;Water;Unspecified;Unspecified;Unspecified;24;NA;6.5 log10MPN/mL
+Casanova_2009;10.1016/j.watres.2009.02.002;TGEV;45000 microliters;Bulk medium;Water;Unspecified;Unspecified;Unspecified;24;NA;4.5 log10MPN/mL
+Casanova_2010;10.1128/AEM.02291-09;MHV;10 microliters;Steel surface;Cell culture medium;Unspecified;Unspecified;Sealed container with salted solutions;4;20;4-5 log10MPN/mL
+Casanova_2010;10.1128/AEM.02291-09;MHV;10 microliters;Steel surface;Cell culture medium;Unspecified;Unspecified;Sealed container with salted solutions;4;50;4-5 log10MPN/mL
+Casanova_2010;10.1128/AEM.02291-09;MHV;10 microliters;Steel surface;Cell culture medium;Unspecified;Unspecified;Sealed container with salted solutions;4;80;4-5 log10MPN/mL
+Casanova_2010;10.1128/AEM.02291-09;TGEV;10 microliters;Steel surface;Cell culture medium;Unspecified;Unspecified;Sealed container with salted solutions;4;20;4-5 log10MPN/mL
+Casanova_2010;10.1128/AEM.02291-09;TGEV;10 microliters;Steel surface;Cell culture medium;Unspecified;Unspecified;Sealed container with salted solutions;4;50;4-5 log10MPN/mL
+Casanova_2010;10.1128/AEM.02291-09;TGEV;10 microliters;Steel surface;Cell culture medium;Unspecified;Unspecified;Sealed container with salted solutions;4;80;4-5 log10MPN/mL
+Casanova_2010;10.1128/AEM.02291-09;MHV;10 microliters;Steel surface;Cell culture medium;Unspecified;Unspecified;Sealed container with salted solutions;20;20;4-5 log10MPN/mL
+Casanova_2010;10.1128/AEM.02291-09;MHV;10 microliters;Steel surface;Cell culture medium;Unspecified;Unspecified;Sealed container with salted solutions;20;50;4-5 log10MPN/mL
+Casanova_2010;10.1128/AEM.02291-09;MHV;10 microliters;Steel surface;Cell culture medium;Unspecified;Unspecified;Sealed container with salted solutions;20;80;4-5 log10MPN/mL
+Casanova_2010;10.1128/AEM.02291-09;TGEV;10 microliters;Steel surface;Cell culture medium;Unspecified;Unspecified;Sealed container with salted solutions;20;20;4-5 log10MPN/mL
+Casanova_2010;10.1128/AEM.02291-09;TGEV;10 microliters;Steel surface;Cell culture medium;Unspecified;Unspecified;Sealed container with salted solutions;20;50;4-5 log10MPN/mL
+Casanova_2010;10.1128/AEM.02291-09;TGEV;10 microliters;Steel surface;Cell culture medium;Unspecified;Unspecified;Sealed container with salted solutions;20;80;4-5 log10MPN/mL
+Casanova_2010;10.1128/AEM.02291-09;MHV;10 microliters;Steel surface;Cell culture medium;Unspecified;Unspecified;Sealed container with salted solutions;40;20;4-5 log10MPN/mL
+Casanova_2010;10.1128/AEM.02291-09;MHV;10 microliters;Steel surface;Cell culture medium;Unspecified;Unspecified;Sealed container with salted solutions;40;50;4-5 log10MPN/mL
+Casanova_2010;10.1128/AEM.02291-09;MHV;10 microliters;Steel surface;Cell culture medium;Unspecified;Unspecified;Sealed container with salted solutions;40;80;4-5 log10MPN/mL
+Casanova_2010;10.1128/AEM.02291-09;TGEV;10 microliters;Steel surface;Cell culture medium;Unspecified;Unspecified;Sealed container with salted solutions;40;20;4-5 log10MPN/mL
+Casanova_2010;10.1128/AEM.02291-09;TGEV;10 microliters;Steel surface;Cell culture medium;Unspecified;Unspecified;Sealed container with salted solutions;40;50;4-5 log10MPN/mL
+Casanova_2010;10.1128/AEM.02291-09;TGEV;10 microliters;Steel surface;Cell culture medium;Unspecified;Unspecified;Sealed container with salted solutions;40;80;4-5 log10MPN/mL
+Chan_2011;10.1155/2011/734690;SARS-CoV-1;10 microliters;Plastic surface;Cell culture medium;Plate (plastic, 24-well);Uncovered?;Unspecified (nebulizer?);23.5;45;7 log10TCID50/mL
+Chan_2011;10.1155/2011/734690;SARS-CoV-1;10 microliters;Plastic surface;Cell culture medium;Vial (plastic);Closed (screw cap);Unspecified (nebulizer?);23.5;45;7 log10TCID50/mL
+Chan_2011;10.1155/2011/734690;SARS-CoV-1;10 microliters;Plastic surface;Cell culture medium;Plate (plastic, 24-well);Uncovered?;Unspecified (nebulizer?);28;82.5;7 log10TCID50/mL
+Chan_2011;10.1155/2011/734690;SARS-CoV-1;10 microliters;Plastic surface;Cell culture medium;Plate (plastic, 24-well);Uncovered?;Unspecified (nebulizer?);28;96;7 log10TCID50/mL
+Chan_2011;10.1155/2011/734690;SARS-CoV-1;10 microliters;Plastic surface;Cell culture medium;Plate (plastic, 24-well);Uncovered?;Unspecified (nebulizer?);33;82.5;7 log10TCID50/mL
+Chan_2011;10.1155/2011/734690;SARS-CoV-1;10 microliters;Plastic surface;Cell culture medium;Plate (plastic, 24-well);Uncovered?;Unspecified (nebulizer?);33;96;7 log10TCID50/mL
+Chan_2011;10.1155/2011/734690;SARS-CoV-1;10 microliters;Plastic surface;Cell culture medium;Plate (plastic, 24-well);Uncovered?;Unspecified (nebulizer?);38;82.5;7 log10TCID50/mL
+Chan_2011;10.1155/2011/734690;SARS-CoV-1;10 microliters;Plastic surface;Cell culture medium;Plate (plastic, 24-well);Uncovered?;Unspecified (nebulizer?);38;96;7 log10TCID50/mL
+Chan_2020;10.1016/j.jhin.2020.07.009;SARS-CoV-2;10 microliters;Glass surface;Cell culture medium;Vial;Unspecified;Unspecified;4;Unspecified;6.5 log10TCID50/mL
+Chan_2020;10.1016/j.jhin.2020.07.009;SARS-CoV-2;10 microliters;Glass surface;Cell culture medium;Vial;Unspecified;Unspecified;4;Unspecified;7 log10TCID50/mL
+Chan_2020;10.1016/j.jhin.2020.07.009;SARS-CoV-2;10 microliters;Glass surface;Cell culture medium;Vial;Unspecified;Unspecified;25;63;6.5 log10TCID50/mL
+Chan_2020;10.1016/j.jhin.2020.07.009;SARS-CoV-2;10 microliters;Glass surface;Cell culture medium;Vial;Unspecified;Unspecified;25;63;7 log10TCID50/mL
+Chan_2020;10.1016/j.jhin.2020.07.009;SARS-CoV-2;10 microliters;Glass surface;Cell culture medium;Vial;Unspecified;Unspecified;33;Unspecified;6.5 log10TCID50/mL
+Chan_2020;10.1016/j.jhin.2020.07.009;SARS-CoV-2;10 microliters;Glass surface;Cell culture medium;Vial;Unspecified;Unspecified;33;Unspecified;7 log10TCID50/mL
+Chan_2020;10.1016/j.jhin.2020.07.009;SARS-CoV-2;10 microliters;Glass surface;Cell culture medium;Vial;Unspecified;Unspecified;37;Unspecified;6.5 log10TCID50/mL
+Chan_2020;10.1016/j.jhin.2020.07.009;SARS-CoV-2;10 microliters;Glass surface;Cell culture medium;Vial;Unspecified;Unspecified;37;Unspecified;7 log10TCID50/mL
+Chan_2020;10.1016/j.jhin.2020.07.009;SARS-CoV-2;300 microliters;Bulk medium;Cell culture medium;Vial;Unspecified;Unspecified;56;Unspecified;4.5 log10TCID50/mL
+Chan_2020;10.1016/j.jhin.2020.07.009;SARS-CoV-2;Unspecified;Bulk medium;Cell culture medium;Vial;Closed (screw cap);Unspecified;4;Unspecified;6.5 log10TCID50/mL
+Chan_2020;10.1016/j.jhin.2020.07.009;SARS-CoV-2;Unspecified;Bulk medium;Cell culture medium;Vial;Closed (screw cap);Unspecified;4;Unspecified;7 log10TCID50/mL
+Chan_2020;10.1016/j.jhin.2020.07.009;SARS-CoV-2;Unspecified;Bulk medium;Cell culture medium;Vial;Closed (screw cap);Unspecified;25;63;6.5 log10TCID50/mL
+Chan_2020;10.1016/j.jhin.2020.07.009;SARS-CoV-2;Unspecified;Bulk medium;Cell culture medium;Vial;Closed (screw cap);Unspecified;25;63;7 log10TCID50/mL
+Chan_2020;10.1016/j.jhin.2020.07.009;SARS-CoV-2;Unspecified;Bulk medium;Cell culture medium;Vial;Closed (screw cap);Unspecified;33;Unspecified;6.5 log10TCID50/mL
+Chan_2020;10.1016/j.jhin.2020.07.009;SARS-CoV-2;Unspecified;Bulk medium;Cell culture medium;Vial;Closed (screw cap);Unspecified;33;Unspecified;7 log10TCID50/mL
+Chan_2020;10.1016/j.jhin.2020.07.009;SARS-CoV-2;Unspecified;Bulk medium;Cell culture medium;Vial;Closed (screw cap);Unspecified;37;Unspecified;6.5 log10TCID50/mL
+Chan_2020;10.1016/j.jhin.2020.07.009;SARS-CoV-2;Unspecified;Bulk medium;Cell culture medium;Vial;Closed (screw cap);Unspecified;37;Unspecified;7 log10TCID50/mL
+Chin_2020;10.1016/S2666-5247(20)30003-3;SARS-CoV-2;Unspecified;Bulk medium;Virus transportation medium;Unspecified;Unspecified;Unspecified;4;NA;6.8 log10TCID50/mL
+Chin_2020;10.1016/S2666-5247(20)30003-3;SARS-CoV-2;Unspecified;Bulk medium;Virus transportation medium;Unspecified;Unspecified;Unspecified;22;NA;6.8 log10TCID50/mL
+Chin_2020;10.1016/S2666-5247(20)30003-3;SARS-CoV-2;Unspecified;Bulk medium;Virus transportation medium;Unspecified;Unspecified;Unspecified;37;NA;6.8 log10TCID50/mL
+Chin_2020;10.1016/S2666-5247(20)30003-3;SARS-CoV-2;Unspecified;Bulk medium;Virus transportation medium;Unspecified;Unspecified;Unspecified;56;NA;6.8 log10TCID50/mL
+Chin_2020;10.1016/S2666-5247(20)30003-3;SARS-CoV-2;Unspecified;Bulk medium;Virus transportation medium;Unspecified;Unspecified;Unspecified;70;NA;6.8 log10TCID50/mL
+Christianson_1989;10.1007/BF01311080;FIPV;Unspecified;Bulk medium;Cell culture medium;Unspecified;Unspecified;Unspecified;54;NA;Unspecified
+Christianson_1989;10.1007/BF01311080;FIPV-TS;Unspecified;Bulk medium;Cell culture medium;Unspecified;Unspecified;Unspecified;54;NA;Unspecified
+Daeschler_2020;10.1503/cmaj.201203;SARS-CoV-2;5 microliters;Mask N95 surface;Unspecified;Unspecified;Unspecified;Incubator;70;0;7.8 log10TCID50/mL
+Darnell_2004;10.1016/j.jviromet.2004.06.006;SARS-CoV-1;320 microliters;Bulk medium;Cell culture medium;Vial (plastic, 1.5 mL);Unspecified;Heat block;56;NA;Unspecified
+Darnell_2004;10.1016/j.jviromet.2004.06.006;SARS-CoV-1;320 microliters;Bulk medium;Cell culture medium;Vial (plastic, 1.5 mL);Unspecified;Heat block;65;NA;Unspecified
+Darnell_2004;10.1016/j.jviromet.2004.06.006;SARS-CoV-1;320 microliters;Bulk medium;Cell culture medium;Vial (plastic, 1.5 mL);Unspecified;Heat block;75;NA;Unspecified
+Darnell_2006;10.1111/j.1537-2995.2006.00976.x;SARS-CoV-1;Unspecified;Bulk medium;Bodily fluids;Unspecified;Unspecified;Water bath;56;NA;Unspecified
+Darnell_2006;10.1111/j.1537-2995.2006.00976.x;SARS-CoV-1;Unspecified;Bulk medium;Saline;Unspecified;Unspecified;Water bath;60;NA;Unspecified
+Darnell_2006;10.1111/j.1537-2995.2006.00976.x;SARS-CoV-1;Unspecified;Bulk medium;Bodily fluids;Unspecified;Unspecified;Water bath;65;NA;Unspecified
+Duan_2003;NA;SARS-CoV-1;100 microliters;Unspecified surface;Cell culture medium;Unspecified;Unspecified;Unspecified;4;NA;6 log10TCID50/mL
+Duan_2003;NA;SARS-CoV-1;100 microliters;Unspecified surface;Cell culture medium;Unspecified;Unspecified;Unspecified;20;NA;6 log10TCID50/mL
+Duan_2003;NA;SARS-CoV-1;100 microliters;Unspecified surface;Cell culture medium;Unspecified;Unspecified;Unspecified;37;NA;6 log10TCID50/mL
+Duan_2003;NA;SARS-CoV-1;100 microliters;Unspecified surface;Cell culture medium;Unspecified;Unspecified;Unspecified;56;NA;6 log10TCID50/mL
+Duan_2003;NA;SARS-CoV-1;100 microliters;Unspecified surface;Cell culture medium;Unspecified;Unspecified;Unspecified;67;NA;6 log10TCID50/mL
+Duan_2003;NA;SARS-CoV-1;100 microliters;Unspecified surface;Cell culture medium;Unspecified;Unspecified;Unspecified;75;NA;6 log10TCID50/mL
+Fischer_2020;10.3201/eid2609.201524;SARS-CoV-2;50 microliters;Mask N95 surface;Unspecified;Unspecified;Unspecified;Unspecified;22;40;Unspecified
+Fischer_2020;10.3201/eid2609.201524;SARS-CoV-2;50 microliters;Steel surface;Unspecified;Unspecified;Unspecified;Unspecified;22;40;Unspecified
+Fischer_2020;10.3201/eid2609.201524;SARS-CoV-2;50 microliters;Mask N95 surface;Unspecified;Unspecified;Unspecified;Oven;70;Unspecified;Unspecified
+Fischer_2020;10.3201/eid2609.201524;SARS-CoV-2;50 microliters;Steel surface;Unspecified;Unspecified;Unspecified;Oven;70;Unspecified;Unspecified
+Guionie_2013;10.1080/03079457.2013.779364;TCoV;400 microliters;Bulk medium;Cell culture medium;Unspecified;Unspecified;Cold room;4;NA;3.2 log10EID50/mL
+Guionie_2013;10.1080/03079457.2013.779364;TCoV;400 microliters;Bulk medium;Cell culture medium;Unspecified;Unspecified;Isothermal box;21.6;NA;3.2 log10EID50/mL
+Gundy_2008;10.1007/s12560-008-9001-6;FIPV;30000 microliters;Bulk medium;Water;Vial;Unspecified;Unspecified;4;NA;5 log10TCID50/mL
+Gundy_2008;10.1007/s12560-008-9001-6;HCoV-229E;30000 microliters;Bulk medium;Water;Vial;Unspecified;Unspecified;4;NA;5 log10TCID50/mL
+Gundy_2008;10.1007/s12560-008-9001-6;FIPV;30000 microliters;Bulk medium;Water;Vial;Unspecified;Unspecified;23;NA;5 log10TCID50/mL
+Gundy_2008;10.1007/s12560-008-9001-6;HCoV-229E;30000 microliters;Bulk medium;Water;Vial;Unspecified;Unspecified;23;NA;5 log10TCID50/mL
+Harbourt_2020;10.1371/journal.pntd.0008831;SARS-CoV-2;50 microliters;Bank note 1$ surface;Cell culture medium;Unspecified;Unspecified;Unspecified;4;45;Unspecified
+Harbourt_2020;10.1371/journal.pntd.0008831;SARS-CoV-2;50 microliters;Bank note 20$ surface;Cell culture medium;Unspecified;Unspecified;Unspecified;4;45;Unspecified
+Harbourt_2020;10.1371/journal.pntd.0008831;SARS-CoV-2;50 microliters;Clothing surface;Cell culture medium;Unspecified;Unspecified;Unspecified;4;45;Unspecified
+Harbourt_2020;10.1371/journal.pntd.0008831;SARS-CoV-2;50 microliters;Skin surface;Cell culture medium;Unspecified;Unspecified;Unspecified;4;45;Unspecified
+Harbourt_2020;10.1371/journal.pntd.0008831;SARS-CoV-2;50 microliters;Bank note 1$ surface;Cell culture medium;Unspecified;Unspecified;Unspecified;22;45;Unspecified
+Harbourt_2020;10.1371/journal.pntd.0008831;SARS-CoV-2;50 microliters;Bank note 20$ surface;Cell culture medium;Unspecified;Unspecified;Unspecified;22;45;Unspecified
+Harbourt_2020;10.1371/journal.pntd.0008831;SARS-CoV-2;50 microliters;Clothing surface;Cell culture medium;Unspecified;Unspecified;Unspecified;22;45;Unspecified
+Harbourt_2020;10.1371/journal.pntd.0008831;SARS-CoV-2;50 microliters;Skin surface;Cell culture medium;Unspecified;Unspecified;Unspecified;22;45;Unspecified
+Harbourt_2020;10.1371/journal.pntd.0008831;SARS-CoV-2;50 microliters;Bank note 1$ surface;Cell culture medium;Unspecified;Unspecified;Unspecified;37;45;Unspecified
+Harbourt_2020;10.1371/journal.pntd.0008831;SARS-CoV-2;50 microliters;Bank note 20$ surface;Cell culture medium;Unspecified;Unspecified;Unspecified;37;45;Unspecified
+Harbourt_2020;10.1371/journal.pntd.0008831;SARS-CoV-2;50 microliters;Clothing surface;Cell culture medium;Unspecified;Unspecified;Unspecified;37;45;Unspecified
+Harbourt_2020;10.1371/journal.pntd.0008831;SARS-CoV-2;50 microliters;Skin surface;Cell culture medium;Unspecified;Unspecified;Unspecified;37;45;Unspecified
+Hofmann_1989;10.1016/0378-1135(89)90036-9;PEDV;1000 microliters;Bulk medium;Cell culture medium;Unspecified;Unspecified;Water bath;50;NA;5.5 log10PFU/mL
+Hofmann_1989;10.1016/0378-1135(89)90036-9;PEDV;1000 microliters;Bulk medium;Cell culture medium;Unspecified;Unspecified;Water bath;60;NA;5.5 log10PFU/mL
+Hofmann_1989;10.1016/0378-1135(89)90036-9;PEDV;1000 microliters;Bulk medium;Cell culture medium;Unspecified;Unspecified;Water bath;70;NA;5.5 log10PFU/mL
+Hofmann_1989;10.1016/0378-1135(89)90036-9;PEDV;1000 microliters;Bulk medium;Cell culture medium;Unspecified;Unspecified;Water bath;80;NA;5.5 log10PFU/mL
+Hulst_2019;10.1111/jam.14235;PEDV;2100 microliters;Bulk medium;Bodily fluids;Vial (steel, incubation vial);Closed (screw cap);Water bath;3;NA;17000 PFU/mL
+Hulst_2019;10.1111/jam.14235;PEDV;2100 microliters;Bulk medium;Bodily fluids;Vial (steel, incubation vial);Closed (screw cap);Water bath;44;NA;17000 PFU/mL
+Hulst_2019;10.1111/jam.14235;PEDV;2100 microliters;Bulk medium;Bodily fluids;Vial (steel, incubation vial);Closed (screw cap);Water bath;48;NA;17000 PFU/mL
+Kariwa_2006;10.1159/000089211;SARS-CoV-1;Unspecified;Bulk medium;Cell culture medium;Vial (50 mL);Unspecified;Water bath;56;NA;Unspecified
+Kim_2020;10.1007/s12275-020-0335-6;SARS-CoV-2;500 microliters;Bulk medium;Cell culture medium;Vial;Unspecified;Heat block;56;NA;5.5 log10TCID50/mL
+Kim_2020;10.1007/s12275-020-0335-6;SARS-CoV-2;500 microliters;Bulk medium;Cell culture medium;Vial;Unspecified;Heat block;65;NA;5.5 log10TCID50/mL
+Lai_2005;10.1086/433186;SARS-CoV-1;3000 microliters;Bulk medium;Bodily fluids;Unspecified;Closed?;Unspecified;4;NA;6 log10TCID50/mL
+Lai_2005;10.1086/433186;SARS-CoV-1;3000 microliters;Bulk medium;Bodily fluids;Unspecified;Closed?;Unspecified;20;NA;6 log10TCID50/mL
+Lamarre_1989;10.1139/m89-160;HCoV-229E;Unspecified;Bulk medium;Cell culture medium;Unspecified;Unspecified;Unspecified;4;NA;Unspecified
+Lamarre_1989;10.1139/m89-160;HCoV-229E;Unspecified;Bulk medium;Cell culture medium;Unspecified;Unspecified;Unspecified;22;NA;Unspecified
+Lamarre_1989;10.1139/m89-160;HCoV-229E;Unspecified;Bulk medium;Cell culture medium;Unspecified;Unspecified;Unspecified;33;NA;Unspecified
+Lamarre_1989;10.1139/m89-160;HCoV-229E;Unspecified;Bulk medium;Cell culture medium;Unspecified;Unspecified;Unspecified;37;NA;Unspecified
+Laude_1981;10.1099/0022-1317-56-2-235;TGEV;1000 microliters;Bulk medium;Cell culture medium;Vial (glass);Unspecified;Water bath;31;NA;Unspecified
+Laude_1981;10.1099/0022-1317-56-2-235;TGEV;1000 microliters;Bulk medium;Cell culture medium;Vial (glass);Unspecified;Water bath;35;NA;Unspecified
+Laude_1981;10.1099/0022-1317-56-2-235;TGEV;1000 microliters;Bulk medium;Cell culture medium;Vial (glass);Unspecified;Water bath;39;NA;Unspecified
+Laude_1981;10.1099/0022-1317-56-2-235;TGEV;1000 microliters;Bulk medium;Cell culture medium;Vial (glass);Unspecified;Water bath;43;NA;Unspecified
+Laude_1981;10.1099/0022-1317-56-2-235;TGEV;1000 microliters;Bulk medium;Cell culture medium;Vial (glass);Unspecified;Water bath;47;NA;Unspecified
+Laude_1981;10.1099/0022-1317-56-2-235;TGEV;1000 microliters;Bulk medium;Cell culture medium;Vial (glass);Unspecified;Water bath;51;NA;Unspecified
+Laude_1981;10.1099/0022-1317-56-2-235;TGEV;1000 microliters;Bulk medium;Cell culture medium;Vial (glass);Unspecified;Water bath;55;NA;Unspecified
+Leclercq_2014;10.1111/irv.12261;MERS-CoV;500 microliters;Bulk medium;Cell culture medium;Unspecified;Unspecified;Unspecified;56;NA;5.59 log10TCID50/mL
+Leclercq_2014;10.1111/irv.12261;MERS-CoV;500 microliters;Bulk medium;Cell culture medium;Unspecified;Unspecified;Unspecified;65;NA;5.59 log10TCID50/mL
+Matson_2020;10.3201/eid2609.202267;SARS-CoV-2;50 microliters;Plastic surface;Bodily fluids;Unspecified;Unspecified;Unspecified;4;40;5 log10TCID50/mL
+Matson_2020;10.3201/eid2609.202267;SARS-CoV-2;50 microliters;Bulk medium;Bodily fluids;Vial;Sealed;Unspecified;4;NA;5 log10TCID50/mL
+Matson_2020;10.3201/eid2609.202267;SARS-CoV-2;50 microliters;Plastic surface;Bodily fluids;Unspecified;Unspecified;Unspecified;21;40;5 log10TCID50/mL
+Matson_2020;10.3201/eid2609.202267;SARS-CoV-2;50 microliters;Bulk medium;Bodily fluids;Vial;Sealed;Unspecified;21;NA;5 log10TCID50/mL
+Matson_2020;10.3201/eid2609.202267;SARS-CoV-2;50 microliters;Plastic surface;Bodily fluids;Unspecified;Unspecified;Unspecified;27;85;5 log10TCID50/mL
+Matson_2020;10.3201/eid2609.202267;SARS-CoV-2;50 microliters;Bulk medium;Bodily fluids;Vial;Sealed;Unspecified;27;NA;5 log10TCID50/mL
+Mullis_2012;10.1016/j.fm.2011.12.009;BCoV;100 microliters;Lettuce surface;Bodily fluids;Unspecified;Unspecified;Refrigerator;4;Unspecified;120000 PFU/mL
+Mullis_2012;10.1016/j.fm.2011.12.009;BCoV;100 microliters;Lettuce surface;Cell culture medium;Unspecified;Unspecified;Refrigerator;4;Unspecified;120000 PFU/mL
+Pagat_2007;10.1177/153567600701200206;SARS-CoV-1;Unspecified;Bulk medium;Cell culture medium;Unspecified;Unspecified;Water bath;60;NA;Unspecified
+Pagat_2007;10.1177/153567600701200206;SARS-CoV-1;Unspecified;Bulk medium;Cell culture medium;Unspecified;Unspecified;Water bath;70;NA;Unspecified
+Pratelli_2008;10.1016/j.tvjl.2007.03.019;CCV;500 microliters;Bulk medium;Cell culture medium;Vial (plastic, 15 mL, conical);Unspecified;Unspecified;56;NA;6.75 log10TCID50/0.05mL
+Pratelli_2008;10.1016/j.tvjl.2007.03.019;CCV;500 microliters;Bulk medium;Cell culture medium;Vial (plastic, 15 mL, conical);Unspecified;Unspecified;65;NA;6.75 log10TCID50/0.05mL
+Pratelli_2008;10.1016/j.tvjl.2007.03.019;CCV;500 microliters;Bulk medium;Cell culture medium;Vial (plastic, 15 mL, conical);Unspecified;Unspecified;75;NA;6.75 log10TCID50/0.05mL
+Pujols_2014;10.1016/j.vetmic.2014.10.021;PEDV;1 gramme;Bulk medium;Food item;Vial (glass, 0.5 cm inner diameter);Unspecified;Water bath;4;NA;4-5 log10TCID50/mL
+Pujols_2014;10.1016/j.vetmic.2014.10.021;PEDV;1 gramme;Bulk medium;Food item;Vial (glass, 0.5 cm inner diameter);Unspecified;Water bath;12;NA;4-5 log10TCID50/mL
+Pujols_2014;10.1016/j.vetmic.2014.10.021;PEDV;1 gramme;Bulk medium;Food item;Vial (glass, 0.5 cm inner diameter);Unspecified;Water bath;22;NA;4-5 log10TCID50/mL
+Quist-Rybachuk_2015;10.1016/j.vetmic.2015.10.010;PEDV;100 microliters;Bulk medium;Bodily fluids;Unspecified;Unspecified;Unspecified;4;NA;5.5 log10TCID50/mL
+Quist-Rybachuk_2015;10.1016/j.vetmic.2015.10.010;PEDV;100 microliters;Bulk medium;Cell culture medium;Unspecified;Unspecified;Unspecified;4;NA;5.5 log10TCID50/mL
+Quist-Rybachuk_2015;10.1016/j.vetmic.2015.10.010;PEDV;100 microliters;Bulk medium;Bodily fluids;Unspecified;Unspecified;Unspecified;40;NA;5.5 log10TCID50/mL
+Quist-Rybachuk_2015;10.1016/j.vetmic.2015.10.010;PEDV;100 microliters;Bulk medium;Cell culture medium;Unspecified;Unspecified;Unspecified;40;NA;5.5 log10TCID50/mL
+Quist-Rybachuk_2015;10.1016/j.vetmic.2015.10.010;PEDV;100 microliters;Bulk medium;Bodily fluids;Unspecified;Unspecified;Unspecified;44;NA;5.5 log10TCID50/mL
+Quist-Rybachuk_2015;10.1016/j.vetmic.2015.10.010;PEDV;100 microliters;Bulk medium;Cell culture medium;Unspecified;Unspecified;Unspecified;44;NA;5.5 log10TCID50/mL
+Quist-Rybachuk_2015;10.1016/j.vetmic.2015.10.010;PEDV;100 microliters;Bulk medium;Bodily fluids;Unspecified;Unspecified;Unspecified;48;NA;5.5 log10TCID50/mL
+Quist-Rybachuk_2015;10.1016/j.vetmic.2015.10.010;PEDV;100 microliters;Bulk medium;Cell culture medium;Unspecified;Unspecified;Unspecified;48;NA;5.5 log10TCID50/mL
+Rabenau_2005;10.1007/s00430-004-0219-0;SARS-CoV-1;Unspecified;Bulk medium;Cell culture medium;Unspecified;Unspecified;Unspecified;4;NA;7.18 +/- 0.37 log10TCID50/mL
+Rabenau_2005;10.1007/s00430-004-0219-0;SARS-CoV-1;Unspecified;Bulk medium;Cell culture medium;Unspecified;Unspecified;Unspecified;56;NA;7.18 +/- 0.37 log10TCID50/mL
+Rabenau_2005;10.1007/s00430-004-0219-0;SARS-CoV-1;Unspecified;Bulk medium;Cell culture medium;Unspecified;Unspecified;Unspecified;60;NA;7.18 +/- 0.37 log10TCID50/mL
+Riddell_2020;10.1186/s12985-020-01418-7;SARS-CoV-2;10 microliters;Plastic surface;Saline;Unspecified;Unspecified;Incubator;20;50;Unspecified
+Riddell_2020;10.1186/s12985-020-01418-7;SARS-CoV-2;10 microliters;Plastic surface;Saline;Unspecified;Unspecified;Incubator;30;50;Unspecified
+Riddell_2020;10.1186/s12985-020-01418-7;SARS-CoV-2;10 microliters;Plastic surface;Saline;Unspecified;Unspecified;Incubator;40;50;Unspecified
+Rockey_2020;10.1128/mSphere.00588-20;MHV;50 microliters;Mask N95 surface;Cell culture medium;Unspecified;Unspecified;Incubator;72;1;6 log10PFU/mL
+Rockey_2020;10.1128/mSphere.00588-20;MHV;50 microliters;Mask N95 surface;Cell culture medium;Unspecified;Unspecified;Incubator;72;13;6 log10PFU/mL
+Rockey_2020;10.1128/mSphere.00588-20;MHV;50 microliters;Mask N95 surface;Cell culture medium;Unspecified;Unspecified;Incubator;72;25;6 log10PFU/mL
+Rockey_2020;10.1128/mSphere.00588-20;MHV;50 microliters;Mask N95 surface;Cell culture medium;Unspecified;Unspecified;Incubator;72;89;6 log10PFU/mL
+Rockey_2020;10.1128/mSphere.00588-20;MHV;50 microliters;Mask N95 surface;Cell culture medium;Unspecified;Unspecified;Incubator;82;1;6 log10PFU/mL
+Rockey_2020;10.1128/mSphere.00588-20;MHV;50 microliters;Mask N95 surface;Cell culture medium;Unspecified;Unspecified;Incubator;82;13;6 log10PFU/mL
+Rockey_2020;10.1128/mSphere.00588-20;MHV;50 microliters;Mask N95 surface;Cell culture medium;Unspecified;Unspecified;Incubator;82;25;6 log10PFU/mL
+Rockey_2020;10.1128/mSphere.00588-20;MHV;50 microliters;Mask N95 surface;Cell culture medium;Unspecified;Unspecified;Incubator;82;89;6 log10PFU/mL
+Saknimit_1988;10.1538/expanim1978.37.3_341;CCV;1000 microliters;Bulk medium;Cell culture medium;Vial;Unspecified;Water bath;40;NA;Unspecified
+Saknimit_1988;10.1538/expanim1978.37.3_341;MHV;1000 microliters;Bulk medium;Cell culture medium;Vial;Unspecified;Water bath;40;NA;Unspecified
+Saknimit_1988;10.1538/expanim1978.37.3_341;CCV;1000 microliters;Bulk medium;Cell culture medium;Vial;Unspecified;Water bath;60;NA;Unspecified
+Saknimit_1988;10.1538/expanim1978.37.3_341;MHV;1000 microliters;Bulk medium;Cell culture medium;Vial;Unspecified;Water bath;60;NA;Unspecified
+Saknimit_1988;10.1538/expanim1978.37.3_341;CCV;1000 microliters;Bulk medium;Cell culture medium;Vial;Unspecified;Water bath;80;NA;Unspecified
+Saknimit_1988;10.1538/expanim1978.37.3_341;MHV;1000 microliters;Bulk medium;Cell culture medium;Vial;Unspecified;Water bath;80;NA;Unspecified
+Saknimit_1988;10.1538/expanim1978.37.3_341;CCV;1000 microliters;Bulk medium;Cell culture medium;Vial;Unspecified;Water bath;100;NA;Unspecified
+Saknimit_1988;10.1538/expanim1978.37.3_341;MHV;1000 microliters;Bulk medium;Cell culture medium;Vial;Unspecified;Water bath;100;NA;Unspecified
+Tennant_1994;10.1016/0378-1135(94)90024-8;CCV;1000 microliters;Bulk medium;Virus transportation medium;Vial?;Unspecified;Unspecified;-70;NA;5.3 log10TCID50/mL
+Tennant_1994;10.1016/0378-1135(94)90024-8;CCV;1000 microliters;Bulk medium;Virus transportation medium;Vial?;Unspecified;Unspecified;-20;NA;5.3 log10TCID50/mL
+Tennant_1994;10.1016/0378-1135(94)90024-8;CCV;1000 microliters;Bulk medium;Virus transportation medium;Vial?;Unspecified;Unspecified;4;NA;5.3 log10TCID50/mL
+Tennant_1994;10.1016/0378-1135(94)90024-8;CCV;1000 microliters;Bulk medium;Virus transportation medium;Vial?;Unspecified;Unspecified;20;NA;5.3 log10TCID50/mL
+Thomas_2015;NA;PEDV;5000 microliters;Surface;Bodily fluids;Tray (aluminium);Unspecified;Incubator;20;Unspecified;Unspecified
+Thomas_2015;NA;PEDV;5000 microliters;Surface;Bodily fluids;Tray (aluminium);Unspecified;Incubator;38;Unspecified;Unspecified
+Thomas_2015;NA;PEDV;5000 microliters;Surface;Bodily fluids;Tray (aluminium);Unspecified;Incubator;54;Unspecified;Unspecified
+Thomas_2015;NA;PEDV;5000 microliters;Surface;Bodily fluids;Tray (aluminium);Unspecified;Incubator;63;Unspecified;Unspecified
+Thomas_2015;NA;PEDV;5000 microliters;Surface;Bodily fluids;Tray (aluminium);Unspecified;Incubator;71;Unspecified;Unspecified
+Unger_2020;10.1503/cmaj.201309-f;SARS-CoV-2;1000 microliters;Bulk medium;Bodily fluids;Unspecified;Unspecified;Unspecified;21;NA;7 log10TCID50/mL
+Unger_2020;10.1503/cmaj.201309-f;SARS-CoV-2;1000 microliters;Bulk medium;Bodily fluids;Unspecified;Unspecified;Water bath;62.5;NA;7 log10TCID50/mL
+van Doremalen_2013;10.2807/1560-7917.ES2013.18.38.20590;MERS-CoV;5 microliters;Plastic surface;Unspecified;Unspecified;Unspecified;Incubator;20;40;6 log10TCID50/mL
+van Doremalen_2013;10.2807/1560-7917.ES2013.18.38.20590;MERS-CoV;5 microliters;Steel surface;Unspecified;Unspecified;Unspecified;Incubator;20;40;6 log10TCID50/mL
+van Doremalen_2013;10.2807/1560-7917.ES2013.18.38.20590;MERS-CoV;5 microliters;Plastic surface;Unspecified;Unspecified;Unspecified;Incubator;30;30;6 log10TCID50/mL
+van Doremalen_2013;10.2807/1560-7917.ES2013.18.38.20590;MERS-CoV;5 microliters;Steel surface;Unspecified;Unspecified;Unspecified;Incubator;30;30;6 log10TCID50/mL
+van Doremalen_2013;10.2807/1560-7917.ES2013.18.38.20590;MERS-CoV;5 microliters;Plastic surface;Unspecified;Unspecified;Unspecified;Incubator;30;80;6 log10TCID50/mL
+van Doremalen_2013;10.2807/1560-7917.ES2013.18.38.20590;MERS-CoV;5 microliters;Steel surface;Unspecified;Unspecified;Unspecified;Incubator;30;80;6 log10TCID50/mL
+Ye_2016;10.1021/acs.est.6b00876;MHV;30000 microliters;Bulk medium;Water;Unspecified;Unspecified;Unspecified;10;NA;30000 PFU/mL
+Ye_2016;10.1021/acs.est.6b00876;MHV;30000 microliters;Bulk medium;Water;Unspecified;Unspecified;Unspecified;25;NA;30000 PFU/mL
+Yunoki_2004;10.1111/j.1423-0410.2004.00577.x;SARS-CoV-1;Unspecified;Bulk medium;Bodily fluids;Unspecified;Unspecified;Unspecified;60;NA;Unspecified
