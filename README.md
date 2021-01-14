@@ -50,7 +50,7 @@ A guide to reproducing the analysis from the paper follows. If you encounter iss
 ### Getting the code
 First download this repository. The recommended way is to ``git clone`` it from the command line:
 
-    git clone https://github.com/dylanhmorris/sars-heat-inactivation.git
+    git clone https://github.com/dylanhmorris/heat-inactivation.git
 
 Downloading it manually via Github's download button should also work.
 
